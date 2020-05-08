@@ -1,0 +1,2 @@
+rootProject.name='Image Picker From Gallery Using Kotlin'
+include ':app'
